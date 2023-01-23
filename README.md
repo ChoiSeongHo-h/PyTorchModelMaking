@@ -25,10 +25,10 @@
 ## 리뷰 내역
 ### 1. pre-trained 신경망 사용
 - VGG 이용   
-  - https://github.com/ChoiSeongHo-h/PyTorchModelMaking/blob/main/01_using_pretrained_vgg.py
+  - https://github.com/ChoiSeongHo-h/PyTorchModelMaking/blob/main/01_using_pretrained_vgg/01_using_pretrained_vgg.py
 ### 2. 전이학습
 - classifier 구조 변경   
-  - https://github.com/ChoiSeongHo-h/PyTorchModelMaking/blob/main/02_transfer_learning.py
+  - https://github.com/ChoiSeongHo-h/PyTorchModelMaking/blob/main/02_transfer_learning/02_transfer_learning.py
 ### 3. 파인튜닝
 - classifier 구조 변경 + feature extractor 파인튜닝   
   - https://github.com/ChoiSeongHo-h/PyTorchModelMaking/blob/main/03_fine_tuning/03_fine_tuning.py
