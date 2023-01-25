@@ -39,3 +39,10 @@
   - https://github.com/ChoiSeongHo-h/PyTorchModelMaking/blob/main/04_object_detection/04_training_ssd.py
 - SSD inference
   - https://github.com/ChoiSeongHo-h/PyTorchModelMaking/blob/main/04_object_detection/04_inference_ssd.py
+### 5. semantic segmentation
+- PSPNet 네트워크, loss 등
+  - https://github.com/ChoiSeongHo-h/PyTorchModelMaking/blob/main/05_semantic_segmentation/utils/psp.py
+- PSPNet training, lr 스케줄링, 멀티플 미니배치 등
+  - https://github.com/ChoiSeongHo-h/PyTorchModelMaking/blob/main/05_semantic_segmentation/05_training_pspnet.py
+- PSPNet inference
+  - https://github.com/ChoiSeongHo-h/PyTorchModelMaking/blob/main/05_semantic_segmentation/05_inference_pspnet.py
